@@ -1,16 +1,39 @@
-# React + Vite
+# Quebrando o Gelo (E o Ovo - REACT ) 🧊🥚
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Seu guia culinário interativo para iniciantes na cozinha.**  
+Você diz o que tem na geladeira, e o site mostra **receitas fáceis, criativas e deliciosas**. Ideal para quem está começando a cozinhar e quer praticidade sem abrir mão do sabor.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Sobre o Projeto
 
-## React Compiler
+Quebrando o Gelo (E o Ovo) é um **site com layout limpo e intuitivo**, feito para ajudar **cozinheiros amadores** a descobrirem receitas com os ingredientes que já têm em casa.  
+A proposta é simples: **menos complicação, mais comida boa**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Busca por ingredientes:** Digite o que tem na geladeira e receba sugestões de receitas.  
+- **Receitas ilustradas:** Cada receita vem com imagens e instruções passo a passo.  
+- **Navegação fluida:** Menu direto ao ponto com seções bem definidas.  
+- **Contato e redes sociais:** Informações para falar com os criadores e acompanhar novidades.  
+- **Exemplo de receita:** Baião de Dois com ingredientes e modo de preparo detalhado.
+
+---
+
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+
+## API Utilizada
+
+- https://www.themealdb.com/api/json/v1/1/
+
+---
+
+## Acesse:
+
+https://e-danillo.github.io/quebrando-o-gelo-e-o-ovo-react/
